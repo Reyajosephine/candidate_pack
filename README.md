@@ -75,6 +75,7 @@ flowchart TD
     L --> M[SQL and Pandas Validation]
     M --> N[Final Findings and Recommendations]
     N --> O[Dashboard and Report]
+```
 
 ### Phase 1 — Environment setup and source ingestion (Steps 1–2)
 
