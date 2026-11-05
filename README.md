@@ -428,24 +428,24 @@ Laptop 14 revenue increased by ₹250,000 and Printer revenue increased by ₹45
 
 ### Revenue Decline Dashboard
 
-![Revenue Decline Dashboard](revenue_decline_visual.png)
+![Revenue Decline Dashboard](images\revenue_decline_visual.png)
 
 ### Daily Revenue Trend
 
-![Daily Revenue Trend](Daily_Revenue_trend.png)
+![Daily Revenue Trend](images\Daily_Revenue_trend.png)
 
 ### August Vs September Preformance
 
-![August Vs September Preformance](Augvsseppreform.png)
+![August Vs September Preformance](images\Augvsseppreform.png)
 
 ### New Vs Repeat Customers
 
-![New Vs Repeat Customers](newvsrepeatcusts.png)
+![New Vs Repeat Customers](images\newvsrepeatcusts.png)
 
 ### Product-wise Monthly Comparison
 
-![Product-wise Monthly Comparison](Productwisemonthlycomp.png)
+![Product-wise Monthly Comparison](images\Productwisemonthlycomp.png)
 
 ### Product-wise Revenue  Contribution
 
-![Product-wise Revenue  Contribution](Productwiserevenuecontri.png)
+![Product-wise Revenue  Contribution](images\Productwiserevenuecontri.png)
