@@ -1,0 +1,4 @@
+order_id,order_date,customer_id,product_id,quantity,unit_price,currency,status,source_row_index,rejection_reason,cleaning_decision
+O0030,2026-08-19,C044,P011,2,8200,INR,completed,80,Exact duplicate record,Removed duplicate copy
+O0008,2026-08-25,C024,P005,1,900,INR,cancelled,137,Exact duplicate record,Removed duplicate copy
+O0081,2026-08-12,C066,P009,2,4500,INR,completed,172,Exact duplicate record,Removed duplicate copy

@@ -1,0 +1,48 @@
+source_row_index,order_id,rejection_reason,cleaning_decision
+2,O0051,missing_customer_id,Excluded from trusted revenue
+4,O0089,conflicting_order_id,Excluded from trusted revenue
+5,O0056,unsupported_status,Excluded from trusted revenue
+11,O0054,invalid_price,Excluded from trusted revenue
+13,O0106,Cancelled order,Excluded from trusted revenue
+32,O0203,Refunded order,Excluded from trusted revenue
+35,O0160,Cancelled order,Excluded from trusted revenue
+46,O0102,Cancelled order,Excluded from trusted revenue
+54,O0052,missing_customer_id; Cancelled order,Excluded from trusted revenue
+60,O0008,Cancelled order,Excluded from trusted revenue
+67,O0037,invalid_date,Excluded from trusted revenue
+70,O0190,Cancelled order,Excluded from trusted revenue
+75,O0187,Cancelled order,Excluded from trusted revenue
+76,O0003,Refunded order,Excluded from trusted revenue
+77,O0059,invalid_quantity,Excluded from trusted revenue
+79,O0042,unmatched_customer_id,Excluded from trusted revenue
+89,O0223,Refunded order,Excluded from trusted revenue
+91,O0043,unmatched_customer_id,Excluded from trusted revenue
+95,O0058,unsupported_currency,Excluded from trusted revenue
+105,O0180,Refunded order,Excluded from trusted revenue
+108,O0112,Refunded order,Excluded from trusted revenue
+111,O0192,Refunded order,Excluded from trusted revenue
+112,O0209,Cancelled order,Excluded from trusted revenue
+120,O0184,Refunded order,Excluded from trusted revenue
+121,O0045,unmatched_product_id,Excluded from trusted revenue
+123,O0053,invalid_quantity,Excluded from trusted revenue
+128,O0171,Cancelled order,Excluded from trusted revenue
+129,O0204,Refunded order,Excluded from trusted revenue
+141,O0208,Refunded order,Excluded from trusted revenue
+143,O0076,Refunded order,Excluded from trusted revenue
+145,O0047,Refunded order,Excluded from trusted revenue
+149,O0168,Cancelled order,Excluded from trusted revenue
+154,O0098,Cancelled order,Excluded from trusted revenue
+155,O0029,Refunded order,Excluded from trusted revenue
+157,O0166,Refunded order,Excluded from trusted revenue
+173,O0177,Refunded order,Excluded from trusted revenue
+185,O0036,invalid_date,Excluded from trusted revenue
+191,O0048,Refunded order,Excluded from trusted revenue
+198,O0133,Cancelled order,Excluded from trusted revenue
+210,O0044,unmatched_product_id,Excluded from trusted revenue
+214,O0089,conflicting_order_id,Excluded from trusted revenue
+220,O0101,Cancelled order,Excluded from trusted revenue
+221,O0165,Refunded order,Excluded from trusted revenue
+231,O0074,Cancelled order,Excluded from trusted revenue
+80,O0030,Exact duplicate record,Removed duplicate copy; original retained
+137,O0008,Exact duplicate record,Removed duplicate copy; original retained
+172,O0081,Exact duplicate record,Removed duplicate copy; original retained

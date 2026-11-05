@@ -1,0 +1,45 @@
+order_id,order_date,customer_id,product_id,quantity,unit_price,currency,status,source_row_index,status_normalized,currency_normalized,parsed_date,rejection_reason,is_eligible
+O0051,2026-08-19,,P007,3,1600,INR,completed,2,completed,INR,2026-08-19,missing_customer_id,False
+O0089,2026-08-07,C005,P006,1,4400,INR,completed,4,completed,INR,2026-08-07,conflicting_order_id,False
+O0056,2026-08-01,C019,P005,3,900,INR,COMPLETE,5,complete,INR,2026-08-01,unsupported_status,False
+O0054,2026-08-17,C044,P011,2,0,INR,completed,11,completed,INR,2026-08-17,invalid_price,False
+O0106,2026-08-06,C006,P006,1,2200,INR,cancelled,13,cancelled,INR,2026-08-06,Cancelled order,False
+O0203,2026-09-23,C054,P007,1,1600,INR,refunded,32,refunded,INR,2026-09-23,Refunded order,False
+O0160,2026-09-25,C057,P004,2,13000,INR,cancelled,35,cancelled,INR,2026-09-25,Cancelled order,False
+O0102,2026-08-27,C066,P007,1,1600,INR,cancelled,46,cancelled,INR,2026-08-27,Cancelled order,False
+O0052,2026-08-28,,P012,1,15000,INR,cancelled,54,cancelled,INR,2026-08-28,missing_customer_id; Cancelled order,False
+O0008,2026-08-25,C024,P005,1,900,INR,cancelled,60,cancelled,INR,2026-08-25,Cancelled order,False
+O0037,not-a-date,C068,P007,1,1600,INR,completed,67,completed,INR,,invalid_date,False
+O0190,2026-09-17,C033,P009,1,4500,INR,cancelled,70,cancelled,INR,2026-09-17,Cancelled order,False
+O0187,2026-09-10,C065,P008,1,2500,INR,cancelled,75,cancelled,INR,2026-09-10,Cancelled order,False
+O0003,2026-08-23,C040,P005,1,900,INR,refunded,76,refunded,INR,2026-08-23,Refunded order,False
+O0059,2026-08-02,C033,P005,0,900,INR,completed,77,completed,INR,2026-08-02,invalid_quantity,False
+O0042,2026-08-06,C999,P003,1,6500,INR,completed,79,completed,INR,2026-08-06,unmatched_customer_id,False
+O0223,2026-09-16,C005,P004,1,13000,INR,refunded,89,refunded,INR,2026-09-16,Refunded order,False
+O0043,2026-08-06,C998,P004,1,13000,INR,completed,91,completed,INR,2026-08-06,unmatched_customer_id,False
+O0058,2026-08-22,C076,P003,1,6500,EUR,completed,95,completed,EUR,2026-08-22,unsupported_currency,False
+O0180,2026-09-09,C061,P008,1,2500,INR,refunded,105,refunded,INR,2026-09-09,Refunded order,False
+O0112,2026-08-08,C070,P005,1,900,INR,refunded,108,refunded,INR,2026-08-08,Refunded order,False
+O0192,2026-09-03,C029,P005,1,900,INR,refunded,111,refunded,INR,2026-09-03,Refunded order,False
+O0209,2026-09-18,C010,P009,1,4500,INR,cancelled,112,cancelled,INR,2026-09-18,Cancelled order,False
+O0184,2026-09-24,C076,P012,1,15000,INR,refunded,120,refunded,INR,2026-09-24,Refunded order,False
+O0045,2026-08-23,C002,P998,1,13000,INR,completed,121,completed,INR,2026-08-23,unmatched_product_id,False
+O0053,2026-08-06,C038,P003,-1,6500,INR,completed,123,completed,INR,2026-08-06,invalid_quantity,False
+O0171,2026-09-15,C016,P006,1,2200,INR,cancelled,128,cancelled,INR,2026-09-15,Cancelled order,False
+O0204,2026-09-20,C074,P006,1,2200,INR,refunded,129,refunded,INR,2026-09-20,Refunded order,False
+O0208,2026-09-02,C057,P007,1,1600,INR,refunded,141,refunded,INR,2026-09-02,Refunded order,False
+O0076,2026-08-07,C076,P008,2,2500,INR,refunded,143,refunded,INR,2026-08-07,Refunded order,False
+O0047,2026-08-09,C068,P004,1,13000,INR,refunded,145,refunded,INR,2026-08-09,Refunded order,False
+O0168,2026-09-14,C011,P010,2,72000,INR,cancelled,149,cancelled,INR,2026-09-14,Cancelled order,False
+O0098,2026-08-08,C037,P006,1,2200,INR,cancelled,154,cancelled,INR,2026-08-08,Cancelled order,False
+O0029,2026-08-19,C014,P005,1,900,INR,refunded,155,refunded,INR,2026-08-19,Refunded order,False
+O0166,2026-09-20,C078,P006,1,2200,INR,refunded,157,refunded,INR,2026-09-20,Refunded order,False
+O0177,2026-09-01,C070,P012,1,15000,INR,refunded,173,refunded,INR,2026-09-01,Refunded order,False
+O0036,2026-09-31,C063,P009,2,4500,INR,completed,185,completed,INR,,invalid_date,False
+O0048,2026-08-25,C010,P009,1,4500,INR,refunded,191,refunded,INR,2026-08-25,Refunded order,False
+O0133,2026-08-22,C055,P008,1,2500,INR,cancelled,198,cancelled,INR,2026-08-22,Cancelled order,False
+O0044,2026-08-21,C065,P999,1,2200,INR,completed,210,completed,INR,2026-08-21,unmatched_product_id,False
+O0089,2026-08-07,C005,P006,1,2200,INR,completed,214,completed,INR,2026-08-07,conflicting_order_id,False
+O0101,2026-08-05,C051,P005,1,900,INR,cancelled,220,cancelled,INR,2026-08-05,Cancelled order,False
+O0165,2026-09-01,C062,P001,1,50000,INR,refunded,221,refunded,INR,2026-09-01,Refunded order,False
+O0074,2026-08-01,C037,P001,1,50000,INR,cancelled,231,cancelled,INR,2026-08-01,Cancelled order,False
