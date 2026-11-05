@@ -55,6 +55,11 @@ The orders table is the transaction-level fact dataset. Customer and product tab
 
 ## 5. Workflow, phases and observations
 
+## 5. Workflow, Phases and Observations
+
+The following diagram illustrates the complete project workflow, from environment setup and data inspection to final analysis and reporting.
+
+```mermaid
 flowchart TD
     A[Load Source CSV Files] --> B[Initial Data Inspection]
     B --> C[Data Quality Checks]
